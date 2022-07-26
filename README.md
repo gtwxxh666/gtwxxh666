@@ -17,10 +17,10 @@
 ## Github Stats ⭐️
 [![info](https://github-readme-stats.vercel.app/api?username=gtwxxh666&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Langs
+## Top Langs 🆙
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtwxxh&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 每周工作报告
+## 每周工作报告 📊 
 ```text
 摸鱼   🕓 23h59m59s ██████████████████████████ 99.9%
 干活   🕓 00h00m01s ░░░░░░░░░░░░░░░░░░░░░░░░░░ 00.1%
