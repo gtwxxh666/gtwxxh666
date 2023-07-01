@@ -1,6 +1,6 @@
 ## Warning！
 网站原先的gtwxxh666.github.io已废弃。
-请看：gtwxxh.cn
+请看：blog.gtwxxh.cn
 ## Start
 <p>
   <a target="_blank" href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru"></a>
